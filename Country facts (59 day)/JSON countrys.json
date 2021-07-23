@@ -1,0 +1,18 @@
+[
+  {
+     "name": "Republic of Indonesia",
+     "capital": "Jakarta",
+     "language": "Indonesian",
+     "area": "1 904 569 km2",
+     "population": 270203917,
+     "currency": "Indonesian rupiah"
+  },
+ {
+     "name": "Russia",
+     "capital": "Moscow",
+     "language": "Russian",
+     "area": "17 098 246 km2",
+     "population": 146171015,
+     "currency": "Russian ruble"
+ }
+]
